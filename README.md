@@ -10,6 +10,6 @@ Music score conducted by [Philip Milman](https://pmmusic.pro/).
 
 # How to Use It
 
-- Go to the page <https://xamigames.itch.io/options-menu> and enter the password "FromGithub".
+- Go to the page <https://xamigames.itch.io/options-menu> and enter the password "FromGitHub".
 - Download the file "Build.zip" and unzip it.
 - Run "Options Menu.exe".
